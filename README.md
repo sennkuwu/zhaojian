@@ -28,6 +28,8 @@ npm run dev
 npm run check
 npm run build
 ```
+## 在线体验
+https://sennkuwu.github.io/zhaojian/
 
 ## 隐私边界
 
